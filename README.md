@@ -317,25 +317,25 @@ Para facilitar la comprensión y la interpretación de los resultados, hemos int
 
 ### 1. Distribución del Estrés
 
-![Distribución del Estrés](visualizations/stress_distribution.png)
+![Distribución del Estrés](visualizations/1.png)
 
 Esta gráfica ilustra la distribución de los valores de estrés en las muestras de acero A36, revelando una tendencia cercana a la normal y la concentración de la mayoría de los valores alrededor de la media. Es una confirmación visual de la homogeneidad del material y la consistencia de los datos.
 
 ### 2. Relación entre Carga Última y Área
 
-![Carga Última vs. Área](visualizations/ultimate_load_vs_area.png)
+![Carga Última vs. Área](visualizations/2.png)
 
 Esta visualización destaca la fuerte correlación positiva entre el área de la sección transversal de la muestra y la carga última que puede soportar. Es una prueba contundente de la importancia de esta característica derivada en la predicción del comportamiento del material.
 
 ### 3. Análisis de Dispersión (Boxplot)
 
-![Boxplot del Estrés](visualizations/stress_boxplot.png)
+![Boxplot del Estrés](visualizations/3.png)
 
 El boxplot del estrés proporciona una visión detallada de la dispersión y los cuartiles de los datos, permitiendo identificar posibles valores atípicos y la variabilidad dentro del conjunto de datos. Es una herramienta esencial para comprender la distribución de los datos de manera más granular.
 
 ### 4. Matriz de Correlación (Pairplot)
 
-![Pairplot de Variables](visualizations/variables_pairplot.png)
+![Pairplot de Variables](visualizations/4.png)
 
 El pairplot ofrece una visión general de las relaciones bivariadas entre todas las variables del conjunto de datos, incluyendo las correlaciones y las distribuciones individuales. Es una herramienta poderosa para identificar patrones, tendencias y la presencia de multicolinealidad entre las características.
 
